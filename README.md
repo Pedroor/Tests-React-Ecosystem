@@ -1,8 +1,8 @@
 <h3 align="center">
-	My Marketplace
+	Tests in React Ecosystem
 </h3>
 <p align="center">
-Repository used to improve frontend development concepts.
+Learning more about testing within the React ecosystem.
 </p>
 <p align="center">
 <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
